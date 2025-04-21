@@ -43,6 +43,9 @@ public class ResumeQI {
 		dp.selectByVisibleText("Candidate (Self)");
 		
 		System.out.println("This is for Git Learning");
+		System.out.println("This is for Git Learning1");
+		System.out.println("This is for Git Learning2");
+		System.out.println("This is for Git Learning3");
 
 	}
 

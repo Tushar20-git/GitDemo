@@ -23,6 +23,11 @@ public class Draganddrop {
 		WebElement target= driver.findElement(By.id("droppable"));
 		a.dragAndDrop(src, target).build().perform();
 		driver.switchTo().defaultContent();
+		System.out.println("Git learning new1");
+
+		System.out.println("Git learning new2");
+
+		System.out.println("Git learning new3");
 
 	}
 
