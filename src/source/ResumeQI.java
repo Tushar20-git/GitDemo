@@ -41,6 +41,8 @@ public class ResumeQI {
 		WebElement dropdown = driver.findElement(By.id("ej2_dropdownlist_6_hidden"));
 		Select dp = new Select(dropdown);
 		dp.selectByVisibleText("Candidate (Self)");
+		
+		System.out.println("This is for Git Learning");
 
 	}
 
