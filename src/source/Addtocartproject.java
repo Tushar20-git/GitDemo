@@ -26,6 +26,7 @@ public class Addtocartproject {
 				driver.findElements(By.xpath("//button[text()='ADD TO CART']")).get(i).click();
 				break;
 			}
+			
 		}
 
 	}
